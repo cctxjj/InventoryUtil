@@ -14,7 +14,6 @@ public class ModifiedInventory {
 
     /*
     Übernimmt bei der Instanziierung ein bestehendes Inventar. Dieses muss einen Wert haben!
-    Test123
      */
     public ModifiedInventory(Inventory inventory) {
         this.inventory = inventory;
