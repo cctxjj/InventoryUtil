@@ -1,0 +1,3 @@
+name: InventoryUtil
+version: '${project.version}'
+main: me.ctxj.herowars.inventoryutil.InventoryUtil
