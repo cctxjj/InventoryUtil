@@ -142,7 +142,7 @@ public class ModifiedInventory {
         return this;
     }
 
-    //Folgende Funktionen füllen alle Leerstellen in einem Inventar auf.
+    //Folgende Funktionen füllen alle Leerstellen in einem Inventar auf...
 
     public ModifiedInventory fillup(Material m) {
         for(int i = 0; i < inventory.getSize(); i++) {
